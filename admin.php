@@ -339,9 +339,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <label>날짜/시간 (자동입력)</label>
             <input type="datetime-local" name="date" id="date" class="readonly" readonly>
 
-            <div><strong>담당자:</strong> 박건희</div>
-            <div><strong>연락처:</strong> 010-2870-3861</div>
-            <div><strong>이메일:</strong> stone@knetsoft.kr</div>
+            <div><strong>담당자:</strong> aaa</div>
+            <div><strong>연락처:</strong> 010-1234-1234</div>
+            <div><strong>이메일:</strong> stone@aaa.kr</div>
 
             <label>고객 이름</label>
             <input type="text" name="customer_name" required>
