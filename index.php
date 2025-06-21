@@ -428,13 +428,13 @@ while ($row = $items_result->fetchArray(SQLITE3_ASSOC)) {
             </div>
             <div class="receipt-footer">
                 구매해주셔서 감사합니다!<br>
-                <span style="font-size:0.9em;">문의: 0507-1374-6680</span>
+                <span style="font-size:0.9em;">문의: 0507-1234-1234</span>
             </div>
             <div class="company-info">
-                <div>상호명: 케이넷소프트</div>
-                <div>사업자등록번호: 228-04-06712</div>
-                <div>대표자: 박건희</div>
-                <div>주소: 경기도 고양시 덕양구 도래울로 16</div>
+                <div>상호명: aaa</div>
+                <div>사업자등록번호: 228-12-1234</div>
+                <div>대표자: aaa</div>
+                <div>주소: 경기도 aaa bbb</div>
             </div>
         </div>
         <div class="download-btn-wrap">
